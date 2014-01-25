@@ -1,5 +1,6 @@
 Projekt "Chill"
 =======
 
-Dmitri Tsumak ja Anastassia Ivanova TÜ
+Dmitri Tsumak, Anastassia Ivanova  
+arvutiteaduse instituut TÜ  
 http://tsudmi.github.io/Projekt/
