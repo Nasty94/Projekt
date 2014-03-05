@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo "Hello world";
-v4l2-ctl -i 2
-gnome-terminal --working-directory=/home/dmi/OOP
